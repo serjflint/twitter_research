@@ -1,0 +1,5 @@
+DB_NAME = "tweets"
+DB_HOST = "localhost"
+DB_USER = "admin"
+DB_PASSWORD = "the1surgeon"
+DB_TABLE = "Mosul"
